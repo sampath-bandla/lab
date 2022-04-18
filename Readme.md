@@ -34,3 +34,5 @@ And now you can access api call using
 ```sh
 $ curl -X GET http://127.0.0.1:8000/hello/
 ```
+or
+you can navigate to `http://127.0.0.1:8000/hello/`
