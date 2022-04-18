@@ -30,4 +30,7 @@ Once `pip` has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 
-And now you can access api call using `http://127.0.0.1:8000/hello/`
+And now you can access api call using
+```sh
+$ curl -X GET http://127.0.0.1:8000/hello/
+```
